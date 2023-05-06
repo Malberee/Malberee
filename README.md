@@ -78,7 +78,7 @@
 </p>
 <div>
   <a href="https://beacons.ai/malberee">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malberee&show_icons=true&bg_color=00000000" />
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malberee&layout=compact&bg_color=00000000" />
+     <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=malberee&show_icons=true&bg_color=00000000" />
+     <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malberee&layout=compact&bg_color=00000000" />
 </div>
 
