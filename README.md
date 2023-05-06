@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="2000" src="./hello-world.gif">
+<img align="center" alt="coding" width="2000" src="./terminal.gif">
 <h1 align="center">Hi 👋, I'm Pavlo</h1>
 <h3 align="center">Future Full-Stack 🖥️developer</h3>
 
