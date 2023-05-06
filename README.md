@@ -1,11 +1,7 @@
-<img align="center" alt="coding" src="[https://thumbs.gfycat.com/FlashyImpeccableFlatcoatretriever-size_restricted.gif](https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)">
+<img align="center" alt="coding" width="2000 "src="[https://thumbs.gfycat.com/FlashyImpeccableFlatcoatretriever-size_restricted.gif](https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)">
 <h1 align="center">Hi 👋, I'm Pavlo</h1>
 <h3 align="center">Future Full-Stack 🖥️developer</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/FlashyImpeccableFlatcoatretriever-size_restricted.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malberee&label=Profile%20views&color=0e75b6&style=flat" alt="malberee" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malberee" alt="malberee" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
