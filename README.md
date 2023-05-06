@@ -3,7 +3,7 @@
 <h3 align="center">Future Full-Stack 🖥️developer</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/pavel-lyalkov-0a9590271" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavel-lyalkov-0a9590271" height="30" width="40" /></a>
 </p>
 
