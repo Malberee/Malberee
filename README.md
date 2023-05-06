@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="2000" src="https://thumbs.gfycat.com/FlashyImpeccableFlatcoatretriever-size_restricted.gif">
+<img align="center" alt="coding" width="2000" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
 <h1 align="center">Hi 👋, I'm Pavlo</h1>
 <h3 align="center">Future Full-Stack 🖥️developer</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/FlashyImpeccableFlatcoatretriever-size_restricted.gif">
