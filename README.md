@@ -3,6 +3,9 @@
 # Hi 👋, I'm Pavlo
 
 ### Connect with me:
+<a href="https://t.me/malberee" target="blank">
+	<img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 <a href="https://linkedin.com/in/pavel-lyalkov-0a9590271" target="blank">
 	<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
